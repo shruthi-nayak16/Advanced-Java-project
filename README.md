@@ -7,7 +7,7 @@ HMS1 o/p link : https://github.com/shruthi-nayak16/Advanced-Java-project/blob/ma
 
 HMS2 o/p link : https://github.com/shruthi-nayak16/Advanced-Java-project/blob/main/HMS2.png
 
-HMS3 o/p link :
+HMS3 o/p link : https://github.com/shruthi-nayak16/Advanced-Java-project/blob/main/HMS3.png
 
 
 
